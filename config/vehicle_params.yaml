@@ -1,0 +1,13 @@
+# Vehicle Configuration Parameters
+vehicle_type: sedan
+model_year: 2025
+can_bitrate: 500000
+lin_baudrate: 19200
+
+# ECU Configuration
+ecu_address: 0x10
+diagnostic_session: default
+
+# Safety Parameters
+watchdog_timeout_ms: 100
+fail_safe_mode: enabled
