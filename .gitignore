@@ -1,0 +1,14 @@
+*.pyc
+__pycache__/
+.env
+node_modules/
+*.o
+*.out
+*.bin
+*.hex
+*.elf
+build/
+dist/
+*.log
+.vscode/
+.DS_Store
